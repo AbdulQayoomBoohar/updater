@@ -1,2 +1,2 @@
 claimbits > online
-dripoffers > offline
+dripoffers > online
